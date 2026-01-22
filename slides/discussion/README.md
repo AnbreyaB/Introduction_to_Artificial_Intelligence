@@ -4,6 +4,8 @@ The material on this page is intended for a flipped classroom and
 contains discussion material (presentation slides, code, links)
 for synchronous sessions organized by Module. 
 
+* [Sync session course intro presentation slides](00_course_intro.pdf)
+
 
 ## Module 1: Introduction to Artificial Intelligence
 
