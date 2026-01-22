@@ -20,6 +20,8 @@ Studying the material requires
 * practical knowledge of how to implement data structures (Big-O notation, search trees).
 * a working knowledge of probability theory and combinatorics.
 
+Here is [HOWTO Cover these topics](HOWTOs/prereqs.md) if you feel week on one of these topics. 
+
 ## Covered AIMA Chapters
 
 | Module | Chapter | Lecture Slides | Code |
