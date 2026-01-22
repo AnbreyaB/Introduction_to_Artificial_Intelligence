@@ -4,14 +4,14 @@ The material on this page is intended for a flipped classroom and
 contains discussion material (presentation slides, code, links)
 for synchronous sessions organized by Module. 
 
-* [Sync session course intro presentation slides](00_course_intro.pdf)
+* [Sync session course intro presentation slides](00_course_intro.pdf) ([PPT](00_course_intro.pptx))
 
 
 ## Module 1: Introduction to Artificial Intelligence
 
 * Reading: AIMA Chapter 1
 * [Lecture presentation slides](../01_intro.pdf)
-* [Sync session presentation slides](01_intro_discussion.pdf)
+* [Sync session presentation slides](01_intro_discussion.pdf)  ([PPT](01_intro_discussion.pptx))
 * [Tools used in this Course](../..)
 
 
@@ -19,7 +19,7 @@ for synchronous sessions organized by Module.
 
 * Reading: AIMA Chapter 2
 * [Lecture presentation slides](../02_agents.pdf)
-* [Sync session presentation slides](02_agents_discussion.pdf)
+* [Sync session presentation slides](02_agents_discussion.pdf)  ([PPT](02_agents_discussion.pptx))
 * [Code examples](../../Agents)
 
 
@@ -27,7 +27,7 @@ for synchronous sessions organized by Module.
 
 * Reading: AIMA Chapter 3
 * [Lecture presentation slides](../03_search.pdf)
-* [Sync session presentation slides](03_search_discussion.pdf)
+* [Sync session presentation slides](03_search_discussion.pdf)  ([PPT](03_search_discussion.pptx))
 * [Code examples](../../Search)
 
 
@@ -35,7 +35,7 @@ for synchronous sessions organized by Module.
 
 * Reading: AIMA Chapters 4.1 and 4.2
 * [Lecture presentation slides](../04_local_search.pdf)
-* [Sync session presentation slides](04_local_search_discussion.pdf)
+* [Sync session presentation slides](04_local_search_discussion.pdf)  ([PPT](04_local_search_discussion.pptx))
 * [Code examples](../../Local_Search)
 * Supplemental: [Simulated Annealing (with visualizations)](https://en.wikipedia.org/wiki/Simulated_annealing)
 
@@ -44,7 +44,7 @@ for synchronous sessions organized by Module.
 
 * Reading: AIMA Chapters 4.3 - 4.5
 * [Lecture presentation slides](../04_search_with_uncertainty.pdf)
-* [Sync session presentation slides](04_search_with_uncertainty.pdf)
+* [Sync session presentation slides](04_search_with_uncertainty.pdf) ([PPT](04_search_with_uncertainty.pptx))
 * [Code examples](../../Search_with_Uncertainty)
 
 
@@ -52,7 +52,7 @@ for synchronous sessions organized by Module.
 
 * Reading: AIMA Chapter 5
 * [Lecture presentation slides](../05_games.pdf)
-* [Sync session presentation slides](05_games_uncertainty.pdf)
+* [Sync session presentation slides](05_games_uncertainty.pdf) ([PPT](05_games_uncertainty.pptx))
 * [Code examples](../../Games)
 * Supplemental:
     - [Video: Algorithms Explained – minimax and alpha-beta pruning](https://www.youtube.com/watch?v=l-hh51ncgDI)
@@ -72,7 +72,7 @@ for synchronous sessions organized by Module.
 
 * Reading: AIMA Chapter 7
 * [Lecture presentation slides](../07_knowledge-based.pdf)
-* [Sync session presentation slides](07_LLM_discussion.pdf)
+* [Sync session presentation slides](07_LLM_discussion.pdf) ([PPT](07_LLM_discussion.pptx))
 * [Code examples](../../Knowledge-based)
 
 
@@ -88,7 +88,7 @@ for synchronous sessions organized by Module.
 
 * Reading: AIMA Chapter 12
 * [Lecture presentation slides](../12_uncertainty.pdf)
-* [Sync session presentation slides](12_uncertainty_discussion.pdf)
+* [Sync session presentation slides](12_uncertainty_discussion.pdf) ([PPT](12_uncertainty_discussion.pptx))
 * [Code examples](../../Uncertainty)
 
 
@@ -96,7 +96,7 @@ for synchronous sessions organized by Module.
 
 * Reading: AIMA Chapter 13
 * [Lecture presentation slides](../13_bayes_nets.pdf)
-* [Sync session presentation slides](12_bayes_nets_discussion.pdf)
+* [Sync session presentation slides](13_bayes_nets_discussion.pdf) ([PPT](13_bayes_nets_discussion.pptx))
 * [Code examples](../../Probabilistic_Reasoning)
 
 
@@ -112,5 +112,5 @@ for synchronous sessions organized by Module.
 
 * Reading: AIMA Chapter 19
 * [Lecture presentation slides](../19_ML_intro.pdf)
-* [Sync session presentation slides](19_ML_intro_discussion.pdf)
+* [Sync session presentation slides](19_ML_intro_discussion.pdf) ([PPT](19_ML_intro_discussion.pptx))
 * [Code examples](../../ML)
