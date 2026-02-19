@@ -3,6 +3,9 @@
 
 ## Contents
 
+### Howto
+* [HOWTO: Simple Trees used for Search-based AI in Python](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/HOWTOs/trees.ipynb)
+
 ### Assignment
 * Assignment: [Solving a maze using a goal-based Agent](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/Search/Maze.ipynb)
 * [Mazes: Show all mazes for the assignment](https://colab.research.google.com/github/mhahsler/Introduction_to_Artificial_Intelligence/blob/master/Search/Show_all_mazes.ipynb)
